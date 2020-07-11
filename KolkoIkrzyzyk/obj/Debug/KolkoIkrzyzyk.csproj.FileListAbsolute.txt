@@ -1,0 +1,10 @@
+C:\Users\Kaczmi\Desktop\KolkoIkrzyzyk\KolkoIkrzyzyk\bin\Debug\KolkoIkrzyzyk.exe.config
+C:\Users\Kaczmi\Desktop\KolkoIkrzyzyk\KolkoIkrzyzyk\bin\Debug\KolkoIkrzyzyk.exe
+C:\Users\Kaczmi\Desktop\KolkoIkrzyzyk\KolkoIkrzyzyk\bin\Debug\KolkoIkrzyzyk.pdb
+C:\Users\Kaczmi\Desktop\KolkoIkrzyzyk\KolkoIkrzyzyk\obj\Debug\KolkoIkrzyzyk.csprojAssemblyReference.cache
+C:\Users\Kaczmi\Desktop\KolkoIkrzyzyk\KolkoIkrzyzyk\obj\Debug\KolkoIkrzyzyk.Form1.resources
+C:\Users\Kaczmi\Desktop\KolkoIkrzyzyk\KolkoIkrzyzyk\obj\Debug\KolkoIkrzyzyk.Properties.Resources.resources
+C:\Users\Kaczmi\Desktop\KolkoIkrzyzyk\KolkoIkrzyzyk\obj\Debug\KolkoIkrzyzyk.csproj.GenerateResource.cache
+C:\Users\Kaczmi\Desktop\KolkoIkrzyzyk\KolkoIkrzyzyk\obj\Debug\KolkoIkrzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\Kaczmi\Desktop\KolkoIkrzyzyk\KolkoIkrzyzyk\obj\Debug\KolkoIkrzyzyk.exe
+C:\Users\Kaczmi\Desktop\KolkoIkrzyzyk\KolkoIkrzyzyk\obj\Debug\KolkoIkrzyzyk.pdb
